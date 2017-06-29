@@ -1,2 +1,2 @@
 # alien_adventure
-Text-based adventure game with Lucas
+Text-based adventure game... with aliens!
